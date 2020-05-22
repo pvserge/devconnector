@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://brad123:brad123@devconnector-k2wby.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "myverysecrettoken",
+  "githubClientId": "b30a53c64ac38037a01b",
+  "githubSecret": "07b9ccea725db174a2e35f1c6cd6db477a85dbeb"
+}
